@@ -1,0 +1,5 @@
+﻿The solution aim is to learn Unit testing with C#.
+I am comming from Java development background,
+so I have to learn how to do it with C#.
+
+Source: https://msdn.microsoft.com/en-us/library/ms182532.aspx
